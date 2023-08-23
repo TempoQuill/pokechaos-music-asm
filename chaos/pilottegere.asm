@@ -1,4 +1,5 @@
 Music_PilotTegere: ; WILLIAM ANDERSON
+; Wonderbolts theme
 ; Tegere is a french corruption of Tajiri, the creator of Pokemon
 ; engine
 	channel_count 4

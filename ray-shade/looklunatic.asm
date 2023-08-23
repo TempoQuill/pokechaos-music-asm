@@ -1,5 +1,5 @@
 Music_LookLunatic: ; JUNICHI MASUDA
-; enging, wav
+; engine, wav
 ; SEP 19 2019
 	channel_count 3
 	channel 1, Music_LookLunatic_Ch1

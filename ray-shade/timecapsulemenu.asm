@@ -1,4 +1,5 @@
-Music_TimeCapsuleMenu:
+Music_TimeCapsuleMenu: ; JUNICHI MASUDA
+; engine, wav, drum
 	channel_count 4
 	channel 1, Music_TimeCapsuleMenu_Ch1
 	channel 2, Music_TimeCapsuleMenu_Ch2

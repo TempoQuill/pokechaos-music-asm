@@ -1,4 +1,5 @@
-Music_PokeFluteMedley:
+Music_PokeFluteMedley: ; JUNICHI MASUDA, JACK GETSCHMAN
+; wav, engine
 	channel_count 3
 	channel 1, Music_PokeFluteMedley_Ch1
 	channel 2, Music_PokeFluteMedley_Ch2

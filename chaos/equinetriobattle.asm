@@ -1,5 +1,6 @@
 Music_EquineTrioBattle: ; SOLO ACAPELLO
 ; "Towards the Truth" from Turnabout Storm in Pokemon battle form
+; would be used when encountering Gobeldorl, Centir or Driscorina
 ; wav, engine
 	channel_count 3
 	channel 1, Music_EquineTrioBattle_Ch1

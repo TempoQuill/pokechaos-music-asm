@@ -1,4 +1,5 @@
-Music_BestFriendsLullaby:
+Music_BestFriendsLullaby: ; DANIEL INGRAM
+; wav, engine
 	channel_count 3
 	channel 1, Music_BestFriendsLullaby_Ch1
 	channel 2, Music_BestFriendsLullaby_Ch2

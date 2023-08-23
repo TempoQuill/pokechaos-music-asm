@@ -1,4 +1,5 @@
-Music_WatchinOverMeJingle:
+Music_WatchinOverMeJingle: ; DANIEL INGRAM
+; wav, engine
 	channel_count 4
 	channel 1, Music_WatchinOverMeJingle_Ch1
 	channel 2, Music_WatchinOverMeJingle_Ch2

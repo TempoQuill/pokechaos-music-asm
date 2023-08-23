@@ -1,4 +1,5 @@
 Music_GolemPalace:
+; wav, engine
 ; FEB 13 2020
 	channel_count 3
 	channel 1, Music_GolemPalace_Ch1

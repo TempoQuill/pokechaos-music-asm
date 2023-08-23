@@ -1,4 +1,5 @@
-Music_MorningInEquintoMarch:
+Music_MorningInEquintoMarch: ; DANIEL INGRAM
+; drum
 	channel_count 4
 	channel 1, Music_MorningInEquintoMarch_Ch1
 	channel 2, Music_MorningInEquintoMarch_Ch2
