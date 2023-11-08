@@ -204,7 +204,7 @@ Music_Route61_Ch2:
 	stereo_panning TRUE, FALSE
 	octave 3
 	note C#, 1
-	note G#, 1
+	note G_, 1
 	rest 2
 	stereo_panning TRUE, TRUE
 	octave 2
@@ -214,7 +214,7 @@ Music_Route61_Ch2:
 	stereo_panning TRUE, FALSE
 	octave 3
 	note C#, 1
-	note G#, 1
+	note G_, 1
 	rest 2
 	stereo_panning TRUE, TRUE
 	octave 1
